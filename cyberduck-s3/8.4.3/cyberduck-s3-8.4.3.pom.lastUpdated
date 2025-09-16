@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 15 21:28:22 IST 2025
+@default-iterate-https\://maven.iterate.ch/.lastUpdated=1757951902096
+https\://maven.iterate.ch/.error=Could not transfer artifact ch.cyberduck\:cyberduck-s3\:pom\:8.4.3 from/to iterate (https\://maven.iterate.ch/)\: maven.iterate.ch
+https\://repo.maven.apache.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1757951877181
